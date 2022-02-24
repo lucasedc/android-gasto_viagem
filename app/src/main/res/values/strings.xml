@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Gasto viagem</string>
+    <string name="strDistancia">Total de Kilômetros</string>
+    <string name="strLitro">Preço por litro</string>
+    <string name="strKilometro">KMs por litro</string>
+    <string name="strInformeGasto">Seu gasto total será de:</string>
+    <string name="strGasto">R$ 0</string>
+    <string name="strCalcular">Calcular</string>
 </resources>
